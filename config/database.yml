@@ -35,5 +35,5 @@ production:
   database: aws-addressbook_production
   pool: 5
   username: root
-  password:
+  password:root101
   socket: /tmp/mysql.sock
