@@ -32,7 +32,7 @@ test:
 production:
   adapter: mysql2
   encoding: utf8
-  database: aws-addressbook_production
+  database: addressbook
   pool: 5
   username: root
   password:root101
