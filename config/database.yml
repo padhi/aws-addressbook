@@ -35,5 +35,5 @@ production:
   database: addressbook
   pool: 5
   username: root
-  password:root101
+  password: root101
   socket: /tmp/mysql.sock
